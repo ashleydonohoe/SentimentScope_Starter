@@ -169,6 +169,7 @@ Transformer-based classifier using:
 ## 🧑‍💻 Author
 
 **Ashley Donohoe**: Freelance writer, editor, and data/AI learner
+
 Focus: finance, AI, and machine learning applications
 
 ---
