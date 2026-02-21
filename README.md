@@ -166,27 +166,6 @@ Transformer-based classifier using:
 
 ---
 
-## 🧪 Future Improvements
-
-* Use pretrained models (BERT, DistilBERT)
-* Hyperparameter tuning
-* Add F1/precision/recall metrics
-* Deploy as API
-* Build web interface
-* Add confusion matrix visualization
-
----
-
-## 🖼️ (Optional) Results
-
-*Add once you run training:*
-
-* Final accuracy:
-* Training curves:
-* Sample predictions:
-
----
-
 ## 🧑‍💻 Author
 
 **Ashley Donohoe**
