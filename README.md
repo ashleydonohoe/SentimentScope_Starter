@@ -83,10 +83,6 @@ venv\Scripts\activate      # Windows
 pip install torch pandas numpy matplotlib seaborn scikit-learn tqdm transformers
 ```
 
-```bash
-pip install transformers
-```
-
 ---
 
 ## 🚀 How to Run
