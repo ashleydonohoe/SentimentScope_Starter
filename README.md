@@ -80,10 +80,8 @@ venv\Scripts\activate      # Windows
 ### 3. Install dependencies
 
 ```bash
-pip install torch pandas numpy matplotlib seaborn scikit-learn tqdm
+pip install torch pandas numpy matplotlib seaborn scikit-learn tqdm transformers
 ```
-
-*(Add transformers if used in your final model)*
 
 ```bash
 pip install transformers
